@@ -1,6 +1,6 @@
 flows:
-  58422d7c-02ce-418f-af68-cce38d5fa200: {ver: 1, file: ABCD.snapshot, comments: first
-      save, author: anonymous, created: 1665595122755, flowName: ABCD, flowDesc: 'description
+  58422d7c-02ce-418f-af68-cce38d5fa200: {ver: 2, file: ABCD.snapshot, comments: second
+      save, author: anonymous, created: 1665596639046, flowName: ABCD, flowDesc: 'description
       du flow ( genere and stock flowfile ) '}
 layoutVer: 1
 bucketId: 02b02ba4-c8d1-4345-b54c-ea307af0696a
